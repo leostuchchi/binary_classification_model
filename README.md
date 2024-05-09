@@ -1,1 +1,1 @@
-# binary_classifications
+# binary_classification_model
